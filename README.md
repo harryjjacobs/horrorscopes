@@ -4,7 +4,7 @@ Daily horoscopes with a spooky theme.
 
 The idea came from me finding horoscopes funny because of how ridiculously vague they usually are. I wanted to make an
 extreme opposite version where they are as specific as possible (i.e. you will spill a banana milkshake on
-yor brand new shoes today at 5:36pm), and then it sort of evolved into more horror-related predictions instead
+your brand new shoes today at 5:36pm), and then it sort of evolved into more horror-related predictions instead
 for some reason.
 
 ## Project structure
